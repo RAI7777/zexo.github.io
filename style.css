@@ -1,0 +1,89 @@
+body {
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: #0f1329;
+    height: 70px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.big-text {
+    color: #ab90ff;
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    padding: 50px;
+}
+
+.mid-text {
+    font-size: 25px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+.background-1 {
+    background: url('front-background.gif');
+    height: 400px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.back-proxies {
+    background-color: #0f1329;
+    height: 100%;
+    width: 100%;
+    padding: 60px;
+}
+
+.proxies-info {
+    padding-top: 0;
+    margin: 0;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.download {
+    padding: 0;
+    margin: 0;
+    width: 525px;
+    height: 53px;
+    background-color: rgb(54, 255, 47);
+    color: #0f1329;
+    font-size: 35px;
+}
+
+.download:hover {
+    background-color: green;
+}
+
+.http-proxies {
+    height: 678px;
+    width: 585px;
+}
+
+.box {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+display: flex;
+}
+
+.staff-info {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+.owner-info {
+    padding: 30px;
+
+}
+
